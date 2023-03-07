@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Werror -Wunused-variable -Wreorder-ctor -Wsign-compare -Wenum-compare -Wpessimizing-move -Wunused-private-field -Wdelete-non-abstract-non-virtual-dtor -fno-omit-frame-pointer -fsanitize=address -fexceptions  -shared -Wl,-soname,libohos_hilog.so -o libohos_hilog.so CMakeFiles/ohos_hilog.dir/src/hilog.cpp.o CMakeFiles/ohos_hilog.dir/src/vsnprintf_s_p.cpp.o 

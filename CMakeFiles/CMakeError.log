@@ -1,0 +1,14 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: /home/hw/iam_refactor/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d116f/fast && /usr/bin/make -f CMakeFiles/cmTC_d116f.dir/build.make CMakeFiles/cmTC_d116f.dir/build
+make[1]: Entering directory '/home/hw/iam_refactor/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d116f.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -Werror -Wreorder-ctor -fno-omit-frame-pointer -fsanitize=address    -o CMakeFiles/cmTC_d116f.dir/CheckIncludeFile.c.o   -c /home/hw/iam_refactor/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+cc: error: unrecognized command line option ‘-Wreorder-ctor’; did you mean ‘-Wreorder’?
+make[1]: *** [CMakeFiles/cmTC_d116f.dir/build.make:66: CMakeFiles/cmTC_d116f.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/hw/iam_refactor/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_d116f/fast] Error 2
+
+
+

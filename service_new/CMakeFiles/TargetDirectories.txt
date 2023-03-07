@@ -1,0 +1,3 @@
+/home/hw/iam_refactor/service_new/CMakeFiles/rebuild_cache.dir
+/home/hw/iam_refactor/service_new/CMakeFiles/edit_cache.dir
+/home/hw/iam_refactor/service_new/CMakeFiles/service_new.dir
